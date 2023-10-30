@@ -1,0 +1,11 @@
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.csproj.AssemblyReference.cache
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.Form1.resources
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.Properties.Resources.resources
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.csproj.GenerateResource.cache
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.csproj.CoreCompileInputs.cache
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\bin\Debug\Restaurant_App.exe.config
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\bin\Debug\Restaurant_App.exe
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\bin\Debug\Restaurant_App.pdb
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.exe
+C:\Users\213013\source\repos\Restaurant_App\Restaurant_App\obj\Debug\Restaurant_App.pdb
